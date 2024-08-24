@@ -1,4 +1,4 @@
-# aamarPay Client
+# AamarPay Client
 
 ### **Getting Started**
 
@@ -7,7 +7,7 @@ To get started with this project, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/Nargis21/aamarPay-client
+   git clone https://github.com/Nargis21/aamarPay-client.git
    ```
 
 2. **Navigate to the Project Directory:**
