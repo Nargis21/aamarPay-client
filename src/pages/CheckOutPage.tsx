@@ -6,10 +6,10 @@ export default function CheckOutPage() {
   const [createOrder] = useCreteOrderMutation()
   // State for user input
   const [user, setUser] = useState({
-    name: "Fahim Ahammed",
-    email: "fahim@ph.com",
-    phone: "0123456789",
-    address: "Dhaka, Bangladesh",
+    name: "Nargis Akther",
+    email: "nargisakther.ph@gmail.com",
+    phone: "01222557788",
+    address: "Chittagong, Bangladesh",
   });
 
   // Replace this with actual selector from your Redux store // Replace with your Redux selector
